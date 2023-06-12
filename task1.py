@@ -7,4 +7,3 @@ class Task1:
 if __name__ == "__main__":
     obj = Task1()
     obj.task1()
-    
